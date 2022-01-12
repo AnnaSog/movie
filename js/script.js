@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', () =>{
 
     const makeChanges = () => {
         genre.textContent ='драма';
+        poster.style.backgroundImage = 'url("img/bg.jpg")';
     };
 
     
